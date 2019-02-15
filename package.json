@@ -1,0 +1,22 @@
+{
+  "name": "static-cwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "static-cwd": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyromance/static-cwd.git"
+  },
+  "author": "fanlong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyromance/static-cwd/issues"
+  },
+  "homepage": "https://github.com/flyromance/static-cwd#readme"
+}
