@@ -1,6 +1,6 @@
+#! /usr/bin/env node
 
 // 在当前目录启动静态资源服务器
-
 const path = require("path");
 const fs = require("fs");
 const URL = require("url");
